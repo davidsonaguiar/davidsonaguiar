@@ -50,6 +50,7 @@ Sou um desenvolvedor front-end em busca de oportunidades para crescer e aprender
 
 * [Drum Machine](https://codepen.io/davidsonaguiar/full/mdjoMNQ) \- Uma caixa de ritmos ou máquina de ritmos, desenvolvida usando React.
 * [Break Length](https://codepen.io/davidsonaguiar/live/MWBZyPq) \- Breack Length é uma aplicação para controle de pausas, foi desenvolvida usando React.
+* [Calculadora](https://codepen.io/davidsonaguiar/full/jOpeJyo) \- Uma calculadora simples.
 
 
 ### Contato

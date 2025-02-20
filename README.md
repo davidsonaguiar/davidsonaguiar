@@ -4,14 +4,11 @@
 
 ###
 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/davidsonaguiar) [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@DAVIDSONROGERIO) [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/davidsonaguiar) [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/davidson-aguiar/) [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/davidsonrogerioaguiar-4073/) [![Codewar](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davidsonaguiar)
-
-
 Sou um desenvolvedor front-end em busca de oportunidades para crescer e aprender na área de desenvolvimento. Sou apaixonado por tecnologia e estou sempre buscando novas habilidades e conhecimentos para aprimorar meu trabalho. Acredito que minha vontade de aprender e minha dedicação podem ser um diferencial para a sua equipe. Estou disposto a enfrentar novos desafios e trabalhar duro para alcançar meus objetivos. Se você procura um desenvolvedor front-end entusiasmado, dedicado e em busca de aprendizado constante, eu sou a pessoa certa para o trabalho!
 
 ### Rede Social
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidson-aguiar-241b49215/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DavidsonAguiar5)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidson-aguiar-241b49215/)
 
 ### Habilidades Técnicas
 

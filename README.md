@@ -38,12 +38,3 @@ Sou um desenvolvedor front-end em busca de oportunidades para crescer e aprender
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-
-
-
-### Projetos
-
-* [Drum Machine](https://codepen.io/davidsonaguiar/full/mdjoMNQ) \- Uma caixa de ritmos ou máquina de ritmos, desenvolvida usando React.
-* [Break Length](https://codepen.io/davidsonaguiar/live/MWBZyPq) \- Breack Length é uma aplicação para controle de pausas, foi desenvolvida usando React.
-* [Calculadora](https://codepen.io/davidsonaguiar/full/jOpeJyo) \- Uma calculadora simples.
-

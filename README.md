@@ -1,5 +1,8 @@
 # Davidson Aguiar
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dra1@aluno.ifal.edu.br) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davidson.05@outlook.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5582988588290)
+</center>
+
 **Cursando Sistemas de Informação** no IFAL - _Instituto Federal de Alagoas_
 
 ###
@@ -47,8 +50,3 @@ Sou um desenvolvedor front-end em busca de oportunidades para crescer e aprender
 * [Break Length](https://codepen.io/davidsonaguiar/live/MWBZyPq) \- Breack Length é uma aplicação para controle de pausas, foi desenvolvida usando React.
 * [Calculadora](https://codepen.io/davidsonaguiar/full/jOpeJyo) \- Uma calculadora simples.
 
-
-### Contato
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dra1@aluno.ifal.edu.br) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davidson.05@outlook.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5582988588290)
-</center>

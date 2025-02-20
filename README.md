@@ -4,11 +4,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dra1@aluno.ifal.edu.br) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davidson.05@outlook.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5582988588290)
 </center>
 
-**Cursando Sistemas de Informação** no IFAL - _Instituto Federal de Alagoas_
+### Desenvolvedor Full Stack | Estudante de Sistemas de Informação
 
-###
-
-Sou um desenvolvedor front-end em busca de oportunidades para crescer e aprender na área de desenvolvimento. Sou apaixonado por tecnologia e estou sempre buscando novas habilidades e conhecimentos para aprimorar meu trabalho. Acredito que minha vontade de aprender e minha dedicação podem ser um diferencial para a sua equipe. Estou disposto a enfrentar novos desafios e trabalhar duro para alcançar meus objetivos. Se você procura um desenvolvedor front-end entusiasmado, dedicado e em busca de aprendizado constante, eu sou a pessoa certa para o trabalho!
+Sou um desenvolvedor full stack apaixonado por construir soluções inovadoras e eficientes. Atualmente, estou cursando Sistemas de Informação no Instituto Federal de Alagoas e possuo experiência no desenvolvimento de sistemas web.
 
 ### Habilidades Técnicas
 
